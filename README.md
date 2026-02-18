@@ -1,0 +1,1 @@
+Basics of GraphQL and its working. Using Apollo Server which is used in Backend, using nodejs and Apollo Client used in frontend using Reactjs.
